@@ -20,7 +20,7 @@ dependencies = [
     "matplotlib",
     "langsmith",
     "langfuse",
-    "mcp[cli]",
+    "mcp[cli]<2",
     "httpx",
     "sse-starlette",
     "starlette",
